@@ -1,4 +1,4 @@
-# kuiai_3th
+# The 3th KUIAI Hackerthon
 
 More detailed information could be refered from the presentation.
 
